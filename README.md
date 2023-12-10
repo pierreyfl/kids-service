@@ -2,6 +2,8 @@
 
 [![CircleCI](https://circleci.com/gh/sharetribe/web-template.svg?style=svg)](https://circleci.com/gh/sharetribe/web-template)
 
+
+# added config
 This is a template web application for Sharetribe marketplaces. You could create your own unique
 marketplace web app by cloning this repository and then extending and customizing it to your needs.
 This template is bootstrapped with
